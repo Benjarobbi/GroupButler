@@ -781,15 +781,15 @@ msgstr "Keine Befehle (commands) gespeichert!"
 
 #: plugins/help.lua:316
 msgid "💡 Admins: warns"
-msgstr ""
+msgstr "💡 Admins: Verwarnungen"
 
 #: plugins/help.lua:318
 msgid "💡 Admins: special characters"
-msgstr ""
+msgstr "💡 Admins: Spezielle Buchstaben"
 
 #: plugins/help.lua:320
 msgid "💡 Admins: group settings"
-msgstr ""
+msgstr "💡 Admins: Gruppeneinstellungen"
 
 #: plugins/links.lua:15
 #, fuzzy
@@ -802,7 +802,7 @@ msgstr ""
 msgid ""
 "This is not a *public supergroup*, so you need to write the link near /"
 "setlink"
-msgstr ""
+msgstr "Dies ist keine *öffentliche Supergruppe*, so musst du den Link nach (slash)setlink schreiben."
 
 #: plugins/links.lua:35
 #, fuzzy
@@ -834,31 +834,31 @@ msgstr ""
 
 #: plugins/logchannel.lua:10
 msgid "_Too many requests. Retry later_"
-msgstr ""
+msgstr "_Zu viele Anfragen. Bitte später probieren_"
 
 #: plugins/logchannel.lua:12
 msgid "_I need to be admin in the channel_"
-msgstr ""
+msgstr "_Ich muss Admin sein in dem Channel_"
 
 #: plugins/logchannel.lua:17
 msgid "*Log channel added!*"
-msgstr ""
+msgstr "*Log Kanal hinzugefügt!*"
 
 #: plugins/logchannel.lua:19
 msgid "Only the channel creator can pair the chat with a channel"
-msgstr ""
+msgstr "Nur der Kanalersteller kann den Chat mit dem Kanal verbinden!"
 
 #: plugins/logchannel.lua:23
 msgid "I'm sorry, only private channels are supported for now"
-msgstr ""
+msgstr "Tut mir leid, nur private Kanaele sind ünterstützt"
 
 #: plugins/mediasettings.lua:17
 msgid "Documents"
-msgstr ""
+msgstr "Dokumente"
 
 #: plugins/mediasettings.lua:18
 msgid "telegram.me links"
-msgstr ""
+msgstr "telegram.me Links"
 
 #: plugins/mediasettings.lua:19
 #, fuzzy
@@ -867,21 +867,21 @@ msgstr "Willkommensnachricht"
 
 #: plugins/mediasettings.lua:21
 msgid "Music"
-msgstr ""
+msgstr "Musik"
 
 #: plugins/mediasettings.lua:23
 msgid "Contacts"
-msgstr ""
+msgstr "Kontakte"
 
 #: plugins/mediasettings.lua:39
 #, lua-format
 msgid "Warns (media) 📍 %d | kick"
-msgstr ""
+msgstr "Warns (Medien) 📍 %d | kick"
 
 #: plugins/mediasettings.lua:41
 #, lua-format
 msgid "Warns (media) 📍 %d | ban"
-msgstr ""
+msgstr "Warns (Medien) 📍 %d | ban"
 
 #: plugins/mediasettings.lua:58
 #, fuzzy
@@ -903,11 +903,11 @@ msgstr ""
 
 #: plugins/mediasettings.lua:79
 msgid "⚙ The new value is too low ( < 1)"
-msgstr ""
+msgstr "⚙ Der neue Wert ist zu klein ( < 1)"
 
 #: plugins/mediasettings.lua:86
 msgid "⚙ The new value is too high ( > 12)"
-msgstr ""
+msgstr "⚙ Der neue Wert ist zu groß ( > 12)"
 
 #: plugins/mediasettings.lua:98
 #, fuzzy
@@ -953,7 +953,7 @@ msgstr "Die Willkommensnachricht wird von nun an angezeigt"
 
 #: plugins/menu.lua:34
 msgid "Arab language allowed"
-msgstr ""
+msgstr "Arabische Sprache erlaubt"
 
 #: plugins/menu.lua:35
 msgid "The use of the RTL character will lead to a kick"
@@ -965,7 +965,7 @@ msgstr ""
 
 #: plugins/menu.lua:37
 msgid "RTL character allowed"
-msgstr ""
+msgstr "Rechts nach Links Buchstaben erlaubt"
 
 #: plugins/menu.lua:112 utilities.lua:520
 #, fuzzy
@@ -992,7 +992,7 @@ msgstr ""
 
 #: plugins/menu.lua:118 utilities.lua:522
 msgid "Ban bots"
-msgstr ""
+msgstr "Ban bots"
 
 #: plugins/menu.lua:148
 #, lua-format
@@ -1006,7 +1006,7 @@ msgstr ""
 
 #: plugins/menu.lua:157
 msgid "Warns 👇🏼"
-msgstr ""
+msgstr "Verwarnungen 👇"
 
 #: plugins/menu.lua:167
 #, fuzzy
